@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipayan Das</h1>
-<h3 align="center">Software Engineer from India 🇮🇳</h3>
+<h3 align="center">Software Engineer from India</h3>
 
 🚀 About Me
 
