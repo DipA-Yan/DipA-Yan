@@ -32,7 +32,7 @@
 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,npm,cpp,mongodb,postman,vercel,netlify,supabase,git,github,docker,kubernetes,vscode,windows" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,npm,cpp,mongodb,postman,vercel,netlify,supabase,git,github,docker,kubernetes,vscode,windows" alt="Tech Stack"/>
 </p>
 
 ---
